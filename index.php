@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-    echo" Welcome to students MIS";
+    echo" Welcome to students MIS";// display messages
     ?>
 </body>
 </html>
