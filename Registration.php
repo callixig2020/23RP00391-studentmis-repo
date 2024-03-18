@@ -152,12 +152,12 @@ text-transform:uppercase;
 		</style>
         <div>
 
-</head><H2>Registration page</H2><body> <table> <form action="" method="POST"> 
-<tr><td><b style="font-family:Juice ITC;font-size: 20px;color:  black">First Name</b></td><td><input type="text" name="firstname"  class="y"></td></tr> 
+</head><H2>Registration page </H2><body> <table> <form action="" method="POST"> 
+<tr><td><b style="font-family:Juice ITC;font-size: 20px;color:  black">Names</b></td><td><input type="text" name="firstname"  class="y"></td></tr> 
 
 
-<tr><td><b style="font-family:Juice ITC;font-size: 20px;color:  black">Last Name</b></td><td><input type="text" name="lastname" class="y"></td></tr> 
-<tr><td><b style="font-family:Juice ITC;font-size: 20px;color:  black">Registration Number</b></td><td><input type="text" name="regno" class="y"></td></tr> 
+<tr><td><b style="font-family:Juice ITC;font-size: 20px;color:  black">email</b></td><td><input type="text" name="lastname" class="y"></td></tr> 
+<tr><td><b style="font-family:Juice ITC;font-size: 20px;color:  black">Password</b></td><td><input type="text" name="regno" class="y"></td></tr> 
 
 <tr><td><input type="submit" name="submit" id="p"></td> 
 <td><a  href="table.php" id="p">View</a></td></tr> 
