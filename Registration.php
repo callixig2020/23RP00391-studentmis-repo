@@ -151,7 +151,7 @@ text-transform:uppercase;
 
 		</style>
         <div>
-
+//User registration form
 </head><H2>Registration page </H2><body> <table> <form action="" method="POST"> 
 <tr><td><b style="font-family:Juice ITC;font-size: 20px;color:  black">Names</b></td><td><input type="text" name="firstname"  class="y"></td></tr> 
 
