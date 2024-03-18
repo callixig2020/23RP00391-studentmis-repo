@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Registration page</title>
+    <title>Registration page </title>
 </head>
 <body>
     <?php
-    echo"Welcome to students MIS";
+    echo" Welcome to students MIS";
     ?>
 </body>
 </html>
