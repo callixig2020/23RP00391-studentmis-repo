@@ -1,5 +1,5 @@
 <?php 
-if(isset($_POST['submit'])){ 
+if(isset($_POST['submit'])){ // you must use OOP
 $dbconn=mysqli_connect("mysql","root","","schooldb"); // Database connetion 
 // inserting in Database 
 $firstname=$_POST['firstname']; 
